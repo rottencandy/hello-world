@@ -2,5 +2,4 @@
 
 Hello there!!!
 
-  As you can see, i have followed the Github tutorial to create this repo.
-  Im currently guessing what to write in this file.
+  This is the repo i created after following the tutorial.
