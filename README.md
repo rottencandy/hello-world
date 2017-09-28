@@ -2,4 +2,4 @@
 
 Hello there!!!
 
-  This is the repo i created after following the tutorial.
+  This is a repo i created by following the Github tutorial.
